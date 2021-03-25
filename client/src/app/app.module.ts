@@ -35,7 +35,8 @@ import { RegisterComponent } from './login/register/register.component';
     FooterComponent,
     LogoutComponent,
     ForgotComponent,
-    RegisterComponent
+    RegisterComponent,
+    UpdateCandidateComponent
   ],
   imports: [
     BrowserModule,

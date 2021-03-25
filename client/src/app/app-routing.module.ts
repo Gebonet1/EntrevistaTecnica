@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { CandidateComponent } from './candidate/candidate/candidate.component';
+import { UpdateCandidateComponent } from './candidate/update-candidate/update-candidate.component';
 import { CreateJobComponent } from './Job/create-job/create-job.component';
 import { ListJobComponent } from './Job/list-job/list-job.component';
 import { ForgotComponent } from './login/forgot/forgot.component';
@@ -19,6 +20,7 @@ const routes: Routes = [
   {path: 'skill/list-skill', component: ListSkillComponent},
   {path: 'skill/create-skill', component:CreateSkillComponent},
   {path: 'candidate/list-candidate', component:CandidateComponent},
+  {path: 'candidate/update-candidate', component:UpdateCandidateComponent},
   {path: 'job/list-job', component:ListJobComponent},
   {path: 'job/create-job', component:CreateJobComponent},
 ];
