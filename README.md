@@ -40,8 +40,9 @@ mateixos usuaris de Recursos Humans)
 
 
 
-```
+
 MODELO RELACIONAL
+```
 SKILL(Id(PK), skillName)
 CANDIDATE_SKILL(Id(PK), IdCandidate(FK), IdSkill( FK), notes, skillValue) 
 CANDIDATE(Id(PK), username, pwd, nameCandidate, surname) 
