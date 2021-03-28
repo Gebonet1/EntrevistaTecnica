@@ -53,7 +53,7 @@ COMPANY_USER(Id(PK), username, pwd, userRole)
 
 
 
-#### 3.EndPoints
+#### 4.EndPoints
 ```
 Utilizar los siguientes endPoints para realizar las consultas y modificaciones  sobre la base de datos :
 ```
@@ -92,7 +92,7 @@ Eliminar un registro de la entidad:
 
 
 
-#### 4. Link a un demo con el proyecto desplegado: https://github.com/andreykiv/EntrevistaTecnica
+#### 5. Link a un demo con el proyecto desplegado: https://github.com/andreykiv/EntrevistaTecnica
 
 
 
